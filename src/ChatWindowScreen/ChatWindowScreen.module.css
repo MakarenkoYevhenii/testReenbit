@@ -1,0 +1,28 @@
+.wrapper{
+    border-left: 1px solid #ACA9A9;
+}
+.userInfo{
+    display: flex;
+    border-bottom: 1px solid #ACA9A9;
+    width: 42.8vw;
+    padding: 10px;
+    background-color: #CBC9C9    ;
+}
+.userImg{
+    width: 60px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.message{
+    background-color: #CBC9C9    ;
+    padding: 30px;
+}
+.input
+{width: 80%;
+padding: 20px;
+border-radius: 20px;
+border: 0;
+}
+.textMessage{display: flex;
+
+}
